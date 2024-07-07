@@ -7,4 +7,4 @@ Basic Processing apply on images. Image imported from skimage library. Implement
 
 ## 2) Image Processing
 
-Use of OpenCV library for image uploading and preprocessing.
+Use of OpenCV library for image uploading and preprocessing.  
